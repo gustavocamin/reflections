@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+	-I need a repository to keep the logs and all the versions of the files. I need it to use git.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+	-The staging area is an area pre-repository in the working directory. you add there all the files that you want to include in the next commit. Its valuable because this way you can chose what goes in the commit now and latter, dividing by logical functions, etc.
