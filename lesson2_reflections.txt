@@ -6,3 +6,6 @@ How is the staging area different from the working directory and the repository?
 
 How can you use the staging area to make sure you have one commit per logical change?
 	-You can use diff --stage to compare the working directory to the staging area, if it shows differences about one file, you dont have it on your staging area. Make sure you have all the files you want to commit and shows no difference, and its ready.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+	-When you want to increment a different new version, or a feature, but still want to keep the master untouched. You create a branch and start changing it there, keeping the master unchanged.
