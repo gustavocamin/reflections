@@ -12,3 +12,6 @@ What are some situations when branches would be helpful in keeping your history 
 
 How do the diagrams help you visualize the branch structure?
 	-With diagrams you can see the structure of the master branch and from each one of the other, seeing what is being developed differently on each one, controlling to not have a free commit, etc. You have a better vision of everything.
+
+What is the result of mergin two branches together? Why do we represent in the diagram the way we do?
+	-When we merge two branches, the commits of the second branch are included in the master branch ( only those who doesnt have differences in both merges) and the functionalitty is implemented. We represent that way in the diagram so its easier to know which commits are included and the timeline they were made.

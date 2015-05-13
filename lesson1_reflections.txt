@@ -2,7 +2,7 @@ How did viewing a diff between two versions of a file help you see the bug that 
 	-Because the diff command compare both files line per line, showing each one that is different, and once one file you are sure works, you can use it as a base to search for errors in the other one, witch is easy this way.
 
 How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
-	-Having the full history of a code can help you by meking you able to go to the last working version of a code, to see whats is different from the actual one and that helps you make your new one work as well.
+	-Having the full history of a code can help you by making you able to go to the last working version of a code, to see whats is different from the actual one and that helps you make your new one work as well.
 
 What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
 	-pros : control of each version and update
