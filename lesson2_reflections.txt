@@ -15,3 +15,6 @@ How do the diagrams help you visualize the branch structure?
 
 What is the result of mergin two branches together? Why do we represent in the diagram the way we do?
 	-When we merge two branches, the commits of the second branch are included in the master branch ( only those who doesnt have differences in both merges) and the functionalitty is implemented. We represent that way in the diagram so its easier to know which commits are included and the timeline they were made.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+	-Automatic merging works when there is no differences in the same file, and when you have you must do it manually, editing the file letting just one version of the code there. Its good so you aways know what was changed and wich one of the versions to choose.
