@@ -9,3 +9,6 @@ When would you want to use a remote repository rather than keeping all your work
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 	-this way you know what you did and is not on the cloud, available to everyone. You can have an idea of what parts of your work everyone has and what you are the only one to get access to it.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+	-Without git or github i would have to keep a lot of versions of the code distributed, and every time someone changed something we would have to see if anyone depends on it and then change on everyones version. It would be very harder.
